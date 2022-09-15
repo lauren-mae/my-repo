@@ -32,3 +32,10 @@ Jk, it's pretty boring
 ```
 
 You can even call out colors in text, also using backticks. This is my favorite shade of pink, `#E11B8D`, but this one is nice too, `#FF98CE.` However these only appear to work in issues, pull requests, and discussions.
+
+## More about Markdown 
+
+Do you still want to learn more about using Markdown on Github? I thought you would. 
+
+Here's [a link to the style guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
